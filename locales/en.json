@@ -1,0 +1,22 @@
+{
+  "login": "Login",
+  "login-enter": "Login",
+  "registration": "Registration",
+  "password": "Password",
+
+  "name": "Name",
+
+  "service-name": "Service name",
+  "service-url": "Service URL",
+  "service-description": "Service description",
+
+  "dont-have-an-account": "Don't have an account? 🥺",
+  "already-have-an-account": "Already have an account? 😀",
+
+  "save": "Save",
+
+  "dont-have-services": "You dont have any saved services yet",
+  "in-proccess": "In proccess! 😉",
+  "add-new-passport": "Add new password",
+  "generate-safe-password": "Generate safe password"
+}
